@@ -1,4 +1,4 @@
-# FlashChat
+# FlashChat ⚡️
 
 FlashChat is a simple iOS app to chat between users, using Firebase.
 
